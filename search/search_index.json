@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to the Sombia Docs","text":"<p>These docs are WIP. They are updated to any new features for Sombia</p>"}]}
