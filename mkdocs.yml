@@ -25,6 +25,9 @@ theme:
         name: Light mode
       primary: blue
       accent: deep purple
+
+plugins:
+  - search
   
 markdown_extensions:
   - attr_list
